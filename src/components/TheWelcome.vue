@@ -10,7 +10,7 @@
     
       <div class="text-center sm:text-left">
         <h1 class="text-4xl font-extrabold font-serif mb-4 text-white">
-          Sherwin Torrejos
+          Serwin Torijos
         </h1>
         <p class="text-xl mb-4 font-semibold text-white">BSIT 3D</p>
         <p class="text-xl mb-8 font-semibold text-white">
