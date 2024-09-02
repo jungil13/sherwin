@@ -5,7 +5,7 @@
       <div class="container mx-auto px-4">
         <nav class="flex items-center justify-between py-4">
           <div class="flex items-center">
-            <h1 class="text-white text-lg font-semibold cursor-pointer">S H E R W I N</h1>
+            <h1 class="text-white text-lg font-semibold cursor-pointer">S E R W I N</h1>
           </div>
         </nav>
       </div>
